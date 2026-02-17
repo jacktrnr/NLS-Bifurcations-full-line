@@ -9,7 +9,6 @@ where $V(x)$ is a compactly supported potential on $[a,b]$ and $E < 0$.
 ## Quick start
 
 ```bash
-cd clean/
 julia run.jl
 ```
 
